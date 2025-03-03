@@ -55,27 +55,6 @@ After running the development server:
 - Register a new account or log in with existing credentials.
 - Upon successful login, access protected areas of the application.
 
-## Project Structure 📁 
-
-```
-Authenticate_App/
-├── Authentication_app/
-│   ├── migrations/
-│   ├── __init__.py
-│   ├── admin.py
-│   ├── apps.py
-│   ├── models.py
-│   ├── tests.py
-│   └── views.py
-├── Authenticate/
-│   ├── __init__.py
-│   ├── asgi.py
-│   ├── settings.py
-│   ├── urls.py
-│   └── wsgi.py
-└── manage.py
-```
-
 ## Contributing 🌍
 
 Contributions are welcome! To contribute:
